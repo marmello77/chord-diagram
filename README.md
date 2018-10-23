@@ -1,5 +1,3 @@
-# chord-diagram
-
 # Drawing networks as chord diagrams in R
 
 Ecological Synthesis Lab (SintECO): https://marcomellolab.wordpress.com
